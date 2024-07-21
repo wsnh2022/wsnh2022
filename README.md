@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @wsnh2022
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m wsnh (worksmartnothard)
+- 👀 I’m interested in General automation projects
+- 🌱 I’m currently learning python and ahk
+- 💞️ I’m looking to collaborate on General automation including AI prompting automation
+- 📫 How to reach me wsnh.code5621@gmail.com
 
 <!---
 wsnh2022/wsnh2022 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
