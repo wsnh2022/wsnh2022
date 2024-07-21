@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on General Automation Development projects <br>👯 I’m looking to collaborate on open source automation projects <br>🤝 I’m looking for help with learning cloud computing <br>🌱 I’m currently learning AI Prompting, Autohotkey automation, python automation <br>💬 Ask me about automation and ai prompting<br>⚡ Fun fact I am lazy but smart automater wiz
+🔭 I’m currently working on General Automation Development projects <br>👯 I’m looking to collaborate on open source automation projects <br>🤝 I’m looking for help with learning cloud computing <br>🌱 I’m currently learning AI Prompting, Autohotkey automation, python automation <br>💬 Ask me about automation and ai prompting<br>⚡ Fun fact I am lazy but i work smart
 
 
 ## 🌐 Socials:
