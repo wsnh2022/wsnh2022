@@ -2,7 +2,7 @@
 🔍 I'm transitioning into a Data Analyst role with a strong background in automation and operational analytics.<br>📊 Currently building projects in Power BI, SQL, Python, and workflow automation.<br>🛠️ Building workflow automation solutions using personalized scripting and AutoHotkey to streamline data tasks and improve efficiency.<br>🤝 Open to collaborating on open-source data or automation projects.<br>🧠 Actively learning AI prompting, Python scripting, and AutoHotkey for smart task automation.<br>💬 Ask me about Excel tricks, automation scripts, or anything data-related.<br>⚡ Fun fact: I automate things because I’m lazy - but that’s what makes me efficient.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=yoghesh-vm&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/yoghesh-vm-39568639/)  [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/u/Autonomo369/s/ajjubF4OmX)
+[![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=yoghesh-vm&logo=linkedin&style=flat&color=0A66C2)](https://www.linkedin.com/in/yoghesh-vm-39568639/)  [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/u/Autonomo369/s/ajjubF4OmX)
 
 
 # 💻 Tech Stack:
