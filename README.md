@@ -10,12 +10,6 @@
 ### 📈 Profile Statistics  
 ![Profile Views](https://komarev.com/ghpvc/?username=wsnh2022&label=Profile%20views&color=0e75b6&style=flat)
 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Wsnh&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Wsnh&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Wsnh&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Wsnh&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
 
@@ -26,3 +20,10 @@
 [![](https://visitcount.itsvg.in/api?id=Wsnh&icon=0&color=13)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<!-- NOT GOOD ENOUGH
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Wsnh&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Wsnh&theme=github_dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Wsnh&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+-->
