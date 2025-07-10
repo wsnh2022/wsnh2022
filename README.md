@@ -1,6 +1,11 @@
 # 💫 About Me:
-🔭 I’m currently working on General Automation Development projects <br>👯 I’m looking to collaborate on open source automation projects <br>🤝 I’m looking for help with learning cloud computing <br>🌱 I’m currently learning AI Prompting, Autohotkey automation, python automation <br>💬 Ask me about automation and ai prompting<br>⚡ Fun fact I am lazy but i work smart
-
+🔍 I'm transitioning into a Data Analyst role with a strong background in automation and operational analytics.
+📊 Currently building projects in Power BI, SQL, Python, and workflow automation.
+🛠️ Building workflow automation solutions using personalized scripting and AutoHotkey to streamline data tasks and improve efficiency.
+🤝 Open to collaborating on open-source data or automation projects.
+🧠 Actively learning AI prompting, Python scripting, and AutoHotkey for smart task automation.
+💬 Ask me about Excel tricks, automation scripts, or anything data-related.
+⚡ Fun fact: I automate things because I’m lazy - but that’s what makes me efficient.
 
 ## 🌐 Socials:
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/u/Autonomo369/s/ajjubF4OmX) 
