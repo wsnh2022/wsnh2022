@@ -1,4 +1,6 @@
-![My_Banner](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+<!--  ![My_Banner](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif) -->
+
+![My_Banner](https://github.com/wsnh2022/My_Project_PNG/blob/24de9b796a68dd615ebe5a394a1accd0947cf0d4/14.png)
 
 <!-- Typing Intro -->
 <div align="center" style="background-color:#1a1a2e; padding: 20px;">
