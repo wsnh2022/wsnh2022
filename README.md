@@ -33,8 +33,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Wsnh&icon=0&color=13)](https://visitcount.itsvg.in)
 
-![Code Time](http://img.shields.io/badge/Code%20Time-542%20hrs%2035%20mins-blue)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- NOT GOOD ENOUGH
