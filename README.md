@@ -1,5 +1,19 @@
+![My_Banner](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+
+<div align="center" style="background-color:#1a1a2e; padding: 20px;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=700&size=40&pause=1000&color=E6F7E0&background=1a1a2e00&center=true&width=600&height=75&lines=Hi+%F0%9F%91%8B%2C+I'm+Yoghesh;Data%2C+Dashboards+%26+Daily+Automation+%E2%98%95" alt="Hi 👋, I'm Yoghesh | Data, Dashboards & Daily Automation ☕">
+</div>
+
+
 # 💫 About Me:
-🔍 I'm transitioning into a Data Analyst role with a strong background in automation and operational analytics.<br>📊 Currently building projects in Power BI, SQL, Python, and workflow automation.<br>🛠️ Building workflow automation solutions using personalized scripting and AutoHotkey to streamline data tasks and improve efficiency.<br>🤝 Open to collaborating on open-source data or automation projects.<br>🧠 Actively learning AI prompting, Python scripting, and AutoHotkey for smart task automation.<br>💬 Ask me about Excel tricks, automation scripts, or anything data-related.<br>⚡ Fun fact: I automate things because I’m lazy - but that’s what makes me efficient.
+
+🔍 &nbsp; I'm transitioning into a Data Analyst role with a strong background in automation and operational analytics.\
+📊 &nbsp; Currently building projects in Power BI, SQL, Python, and workflow automation.\
+🛠️ &nbsp; Building workflow automation solutions using personalized scripting and AutoHotkey to streamline data tasks and improve efficiency.\
+🤝 &nbsp; Open to collaborating on open-source data or automation projects.\
+🧠 &nbsp; Actively learning AI prompting, Python scripting, and AutoHotkey for smart task automation.\
+💬 &nbsp; Ask me about Excel tricks, automation scripts, or anything data-related.\
+⚡ &nbsp; Fun fact: I automate things because I’m lazy - but that’s what makes me efficient.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=yoghesh-vm&logo=linkedin&style=flat&color=0A66C2)](https://www.linkedin.com/in/yoghesh-vm-39568639/)  [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/u/Autonomo369/s/ajjubF4OmX)
@@ -19,6 +33,8 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Wsnh&icon=0&color=13)](https://visitcount.itsvg.in)
+
+![Code Time](http://img.shields.io/badge/Code%20Time-542%20hrs%2035%20mins-blue)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
