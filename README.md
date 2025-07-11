@@ -26,6 +26,8 @@
 | **📚 Libraries & Frameworks** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=white) |
 | **⚙️ Automation & Scripting** | ![AutoHotkey](https://img.shields.io/badge/AutoHotkey-334455?style=plastic) ![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54) |
 | **🛠️ Tools & IDEs**          | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=plastic&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white) |
+| **📝 Notes & Notebooks** | ![Notion](https://img.shields.io/badge/Notion-000000?style=plastic&logo=notion&logoColor=white) ![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=plastic&logo=obsidian&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=jupyter&logoColor=white) |
+
 
 
 ### 📈 Profile Statistics  
