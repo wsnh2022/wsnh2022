@@ -18,7 +18,7 @@
 ⚡ &nbsp; Fun fact: I automate things because I’m lazy - but that’s what makes me efficient.
 
 ## 💼 Connect with Me:
-[![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=yoghesh&logo=linkedin&style=flat&color=0A66C2)](https://www.linkedin.com/in/yoghesh-39568639/)  [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/u/Autonomo369/s/ajjubF4OmX)
+[![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=yoghesh&logo=linkedin&style=flat&color=0A66C2)](https://www.linkedin.com/in/yoghesh-vm-39568639/)  [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/u/Autonomo369/s/ajjubF4OmX)
 
 ## 💻 Tech Stack
 
