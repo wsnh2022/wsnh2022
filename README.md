@@ -14,10 +14,11 @@
 🤝 &nbsp; Open to collaborating on open-source data or automation projects.\
 🧠 &nbsp; Actively learning AI prompting, Python scripting, and AutoHotkey for smart task automation.\
 💬 &nbsp; Ask me about Excel tricks, automation scripts, or anything data-related.\
+📨 &nbsp; You can shoot me an email at wsnh.code5621@gmail.com! I'll try to respond as soon as I can.\
 ⚡ &nbsp; Fun fact: I automate things because I’m lazy - but that’s what makes me efficient.
 
 ## 💼 Connect with Me:
-[![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=yoghesh-vm&logo=linkedin&style=flat&color=0A66C2)](https://www.linkedin.com/in/yoghesh-vm-39568639/)  [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/u/Autonomo369/s/ajjubF4OmX)
+[![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=yoghesh&logo=linkedin&style=flat&color=0A66C2)](https://www.linkedin.com/in/yoghesh-39568639/)  [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/u/Autonomo369/s/ajjubF4OmX)
 
 ## 💻 Tech Stack
 
