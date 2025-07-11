@@ -14,20 +14,19 @@
 💬 &nbsp; Ask me about Excel tricks, automation scripts, or anything data-related.\
 ⚡ &nbsp; Fun fact: I automate things because I’m lazy - but that’s what makes me efficient.
 
-## 🌐 Socials:
+## 💼 Connect with Me:
 [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=yoghesh-vm&logo=linkedin&style=flat&color=0A66C2)](https://www.linkedin.com/in/yoghesh-vm-39568639/)  [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/u/Autonomo369/s/ajjubF4OmX)
 
+## 💻 Tech Stack
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)&nbsp;
-![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=plastic&logo=pythonanywhere&logoColor=151515)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=plastic&logo=mysql&logoColor=white)&nbsp;
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=plastic&logo=powerbi&logoColor=black)&nbsp;
-![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=plastic&logo=microsoft-excel&logoColor=white)&nbsp;
-![Pandas](https://img.shields.io/badge/pandas-150458?style=plastic&logo=pandas&logoColor=white)&nbsp;
-![AutoHotkey](https://img.shields.io/badge/AutoHotkey-334455?style=plastic)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=plastic&logo=visual-studio-code&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
+| Category                 | Tools & Technologies |
+|--------------------------|----------------------|
+| **📊 Data & BI Tools**   | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=plastic&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Excel-217346?style=plastic&logo=microsoft-excel&logoColor=white) ![DAX](https://img.shields.io/badge/DAX-0078D4?style=plastic&logo=microsoft&logoColor=white) ![Power Query](https://img.shields.io/badge/Power%20Query-742774?style=plastic&logo=microsoft&logoColor=white) |
+| **🐍 Programming Languages** | ![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=plastic&logo=mysql&logoColor=white) |
+| **📚 Libraries & Frameworks** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=white) |
+| **⚙️ Automation & Scripting** | ![AutoHotkey](https://img.shields.io/badge/AutoHotkey-334455?style=plastic) ![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54) |
+| **🛠️ Tools & IDEs**          | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=plastic&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white) |
+
 
 ### 📈 Profile Statistics  
 ![Profile Views](https://komarev.com/ghpvc/?username=wsnh2022&label=Profile%20views&color=0e75b6&style=flat)
@@ -44,6 +43,18 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- NOT GOOD ENOUGH
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)&nbsp;
+![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=plastic&logo=pythonanywhere&logoColor=151515)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=plastic&logo=mysql&logoColor=white)&nbsp;
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=plastic&logo=powerbi&logoColor=black)&nbsp;
+![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=plastic&logo=microsoft-excel&logoColor=white)&nbsp;
+![Pandas](https://img.shields.io/badge/pandas-150458?style=plastic&logo=pandas&logoColor=white)&nbsp;
+![AutoHotkey](https://img.shields.io/badge/AutoHotkey-334455?style=plastic)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=plastic&logo=visual-studio-code&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Wsnh&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Wsnh&theme=github_dark&hide_border=false)<br/>
