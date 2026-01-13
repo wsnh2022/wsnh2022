@@ -30,12 +30,7 @@ I turn messy operational data into tools people actually use.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-wsnh2022.github.io-blue?style=flat)](https://wsnh2022.github.io/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yoghesh--vm-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/yoghesh-vm-39568639/) 
-[![Email](https://img.shields.io/badge/Email-wsnh.code5621%40gmail.com-red?style=flat&logo=gmail)](mailto:wsnh.code5621@gmail.com)
-
----
-
-## 💼 Connect with Me:
-[![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=yoghesh&logo=linkedin&style=flat&color=0A66C2)](https://www.linkedin.com/in/yoghesh-vm-39568639/)  [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/u/Autonomo369/s/ajjubF4OmX)
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/u/Autonomo369/s/ajjubF4OmX)
 
 ## 💻 Tech Stack
 
