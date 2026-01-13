@@ -3,19 +3,36 @@
 ![My_Banner](https://github.com/wsnh2022/My_Project_PNG/blob/24de9b796a68dd615ebe5a394a1accd0947cf0d4/14.png)
 
 <!-- Typing Intro -->
-<div align="center" style="background-color:#1a1a2e; padding: 20px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=700&size=40&pause=1000&color=E6F7E0&background=1a1a2e00&center=true&width=500&height=75&lines=Hi+%F0%9F%91%8B%2C+I'm+Yoghesh;Data+%26+Automation+%E2%98%95" alt="Hi 👋, I'm Yoghesh | Data & Automation ☕">
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=700&size=40&pause=1000&color=E6F7E0&background=1a1a2e00&center=true&width=900&height=75&lines=Hi+%F0%9F%91%8B%2C+I'm+Yoghesh+%7C+Data+Analyst;specializing+in+Supply+Chain+%26+Automation" alt="Hi 👋, I'm Yoghesh | Data Analyst specializing in Supply Chain Automation">
 </div>
 
-# 💫 About Me:
-🔍 &nbsp; I'm transitioning into a Data Analyst role with a strong background in automation and operational analytics.\
-📊 &nbsp; Currently building projects in Power BI, SQL, Python, and workflow automation.\
-🛠️ &nbsp; Building workflow automation solutions using personalized scripting and AutoHotkey to streamline data tasks and improve efficiency.\
-🤝 &nbsp; Open to collaborating on open-source data or automation projects.\
-🧠 &nbsp; Actively learning AI prompting, Python scripting, and AutoHotkey for smart task automation.\
-💬 &nbsp; Ask me about Excel tricks, automation scripts, or anything data-related.\
-📨 &nbsp; You can shoot me an email at wsnh.code5621@gmail.com! I'll try to respond as soon as I can.\
-⚡ &nbsp; Fun fact: I automate things because I’m lazy - but that’s what makes me efficient.
+---
+
+## 💫 About Me
+
+I turn messy operational data into tools people actually use.
+
+### **What I build:**
+- SQL ETL pipelines that cut reporting lag from 24 hours to real-time
+- Power BI dashboards that make supply chain bottlenecks obvious
+- AutoHotkey scripts that handle the repetitive stuff nobody wants to do
+- Python utilities for cleaning datasets that make Excel cry
+
+### **My approach:**
+- Automate the boring parts so teams can focus on actual decisions
+- Document everything (future me will thank current me)
+- Build things that work reliably, not things that look impressive but fail
+
+---
+
+## 💼 Connect
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-wsnh2022.github.io-blue?style=flat)](https://wsnh2022.github.io/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-yoghesh--vm-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/yoghesh-vm-39568639/) 
+[![Email](https://img.shields.io/badge/Email-wsnh.code5621%40gmail.com-red?style=flat&logo=gmail)](mailto:wsnh.code5621@gmail.com)
+
+---
 
 ## 💼 Connect with Me:
 [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=yoghesh&logo=linkedin&style=flat&color=0A66C2)](https://www.linkedin.com/in/yoghesh-vm-39568639/)  [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/u/Autonomo369/s/ajjubF4OmX)
