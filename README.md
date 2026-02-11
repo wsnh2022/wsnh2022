@@ -29,7 +29,7 @@ I turn messy operational data into tools people actually use.
 ## 💼 Connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-wsnh2022.github.io-blue?style=flat)](https://wsnh2022.github.io/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-yoghesh--vm-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/yoghesh-vm-39568639/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-yoghesh-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/yoghesh-vm-39568639/) 
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/u/Autonomo369/s/ajjubF4OmX)
 
 ## 💻 Tech Stack
