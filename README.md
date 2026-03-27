@@ -41,10 +41,7 @@
 ### 📈 Profile Statistics  
 ![Profile Views](https://komarev.com/ghpvc/?username=wsnh2022&label=Profile%20views&color=0e75b6&style=flat)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Wsnh&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
