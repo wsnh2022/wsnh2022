@@ -9,22 +9,15 @@
 
 ---
 
-## 💫 About Me
+# 💫 About Me
 
-I turn messy operational data into tools people actually use.
-
-### **What I build:**
-- SQL ETL pipelines that cut reporting lag from 24 hours to real-time
-- Power BI dashboards that make supply chain bottlenecks obvious
-- AutoHotkey scripts that handle the repetitive stuff nobody wants to do
-- Python utilities for cleaning datasets that make Excel cry
-
-### **My approach:**
-- Automate the boring parts so teams can focus on actual decisions
-- Document everything (future me will thank current me)
-- Build things that work reliably, not things that look impressive but fail
-
----
+🔧   Workflow Automation Engineer - I build n8n pipelines, AI-augmented desktop tools, and scripts that eliminate manual ops work.  
+🖥️   Shipped: **Nexus Launcher** (Electron + AHK v2), **VisionScribe AI** (OCR + Vision pipeline), **Facility Automation Pipeline** (330 hrs/year saved).  
+🤖   Stack: Python · n8n · Electron · Node.js · OpenRouter · Power BI · AutoHotkey.  
+🏭   7+ years in logistics and operations - I understand the problems before writing the code.  
+🤝   Open to automation and AI integration projects.  
+📨   Reach me at [wsnh.code5621@gmail.com](mailto:wsnh.code5621@gmail.com)  
+⚡   Fun fact: I automate things because I'm lazy - but that's what makes me efficient.
 
 ## 💼 Connect
 
