@@ -12,7 +12,7 @@
 # 💫 About Me
 
 🔧   Workflow Automation Engineer - I build n8n pipelines, AI-augmented desktop tools, and scripts that eliminate manual ops work.  
-🖥️   Shipped: **Nexus Launcher** (Electron + AHK v2), **VisionScribe AI** (OCR + Vision pipeline), **Facility Automation Pipeline** (330 hrs/year saved).  
+🖥️   Shipped: **Nexus Launcher** (Electron + AHK v2), **VisionScribe AI** (OCR + Vision pipeline), **Facility Automation Pipeline** (330 hrs/year saved) and more.  
 🤖   Stack: Python · n8n · Electron · Node.js · OpenRouter · Power BI · AutoHotkey.  
 🏭   7+ years in logistics and operations - I understand the problems before writing the code.  
 🤝   Open to automation and AI integration projects.  
