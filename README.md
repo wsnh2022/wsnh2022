@@ -1,28 +1,24 @@
-<!--  ![My_Banner](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif) -->
-
 ![My_Banner](https://github.com/wsnh2022/My_Project_PNG/blob/24de9b796a68dd615ebe5a394a1accd0947cf0d4/14.png)
 
-<!-- Typing Intro -->
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=700&size=40&pause=1000&color=E6F7E0&background=1a1a2e00&center=true&width=900&height=75&lines=Hi+%F0%9F%91%8B%2C+I'm+Yoghesh+%7C+Data+Analyst;specializing+in+Supply+Chain+%26+Automation" alt="Hi 👋, I'm Yoghesh | Data Analyst specializing in Supply Chain Automation">
+<img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=700&size=40&pause=1000&color=E6F7E0&background=1a1a2e00&center=true&width=900&height=75&lines=Hi+%F0%9F%91%8B%2C+I'm+Yoghesh+%7C+Data+Analyst;Power+BI+%C2%B7+SQL+%C2%B7+Python+%C2%B7+Automation" alt="Hi 👋, I'm Yoghesh | Data Analyst">
 </div>
 
 ---
 
 # 💫 About Me
 
-🔧   Workflow Automation Engineer - I build n8n pipelines, AI-augmented desktop tools, and scripts that eliminate manual ops work.  
-🖥️   Shipped: **Nexus Launcher** (Electron + AHK v2), **VisionScribe AI** (OCR + Vision pipeline), **Facility Automation Pipeline** (330 hrs/year saved) and more.  
-🤖   Stack: Python · n8n · Electron · Node.js · OpenRouter · Power BI · AutoHotkey.  
-🏭   7+ years in logistics and operations - I understand the problems before writing the code.  
-🤝   Open to automation and AI integration projects.  
-📨   Reach me at [wsnh.code5621@gmail.com](mailto:wsnh.code5621@gmail.com)  
-⚡   Fun fact: I automate things because I'm lazy - but that's what makes me efficient.
+📊 Data Analyst who builds things - dashboards, MIS pipelines, and automation tools that actually get used.  
+🖥️ Shipped: **Facility Automation Pipeline** (330 hrs/year saved), **DataVault AI** (NL-to-SQL), **Nexus Launcher** (Electron + AHK v2) and more.  
+🤖 Stack: Python · SQL · Power BI · n8n · Electron · OpenRouter · AutoHotkey.  
+🏭 7+ years in supply chain and operations data - I understand the problems before writing the code.  
+📨 Reach me at [datacraft369@gmail.com](mailto:datacraft369@gmail.com)  
+⚡ Fun fact: I automate things because I'm lazy - but that's what makes me efficient.
 
 ## 💼 Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-wsnh2022.github.io-blue?style=flat)](https://wsnh2022.github.io/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-yoghesh-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/yoghesh-vm-39568639/) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-wsnh2022.github.io-blue?style=flat)](https://wsnh2022.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-yoghesh369-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/yoghesh369/)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/u/Autonomo369/s/ajjubF4OmX)
 
 ## 💻 Tech Stack
