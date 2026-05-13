@@ -105,9 +105,11 @@ I'm currently available for **remote roles** and **freelance projects** in data 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wsnh2022&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false&show_icons=true)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wsnh2022&theme=github_dark)
+
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wsnh2022&theme=github_dark)
 &nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wsnh2022&theme=github_dark&hide_border=true&layout=compact)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wsnh2022&theme=github_dark)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=wsnh2022&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
