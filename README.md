@@ -83,13 +83,12 @@ I'm currently available for **remote roles** and **freelance projects** in data 
 **Automation & AI**
 
 <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="45" height="45" alt="n8n" title="n8n"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/wsnh2022/wsnh2022/main/assets/ahk.svg" width="45" height="45" alt="AutoHotkey v2" title="AutoHotkey v2"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/wsnh2022/wsnh2022/main/assets/ahk.png" width="45" height="45" alt="AutoHotkey v2" title="AutoHotkey v2"/>&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/wsnh2022/wsnh2022/main/assets/openrouter.svg" width="45" height="45" alt="OpenRouter" title="OpenRouter"/>&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/langchain/00A67E" width="45" height="45" alt="LangChain" title="LangChain"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/wsnh2022/wsnh2022/main/assets/langgraph.svg" width="45" height="45" alt="LangGraph" title="LangGraph"/>
-
-![CrewAI](https://img.shields.io/badge/CrewAI-333333?style=flat-square)
-![RAG Pipelines](https://img.shields.io/badge/RAG%20Pipelines-6B21A8?style=flat-square)
+<img src="https://raw.githubusercontent.com/wsnh2022/wsnh2022/main/assets/langgraph.svg" width="45" height="45" alt="LangGraph" title="LangGraph"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/wsnh2022/wsnh2022/main/assets/crewai.svg" width="45" height="45" alt="CrewAI" title="CrewAI"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/wsnh2022/wsnh2022/main/assets/rag.svg" width="45" height="45" alt="RAG Pipelines" title="RAG Pipelines"/>
 
 **Infra & Tools**
 
