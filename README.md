@@ -73,7 +73,7 @@ I'm currently available for **remote roles** and **freelance projects** in data 
 
 **Data & BI**
 
-<img src="https://cdn.simpleicons.org/powerbi/F2C811" width="45" height="45" alt="Power BI" title="Power BI"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/microsoftpowerbi/F2C811" width="45" height="45" alt="Power BI" title="Power BI"/>&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/microsoftexcel/21A366" width="45" height="45" alt="Excel" title="Excel"/>&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/pandas/ffffff" width="45" height="45" alt="Pandas" title="Pandas"/>&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/sap/0FAAFF" width="45" height="45" alt="SAP" title="SAP"/>
