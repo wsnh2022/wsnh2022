@@ -61,48 +61,64 @@ I'm currently available for **remote roles** and **freelance projects** in data 
 
 ## Tech Stack
 
-<div align="center">
+### Languages & Runtimes
 
-<h4>🖥️ Languages & Runtimes</h4>
+<div align="center">
 
 [![Languages](https://skillicons.dev/icons?i=python,ts,js,html,css,powershell&theme=dark)](https://skillicons.dev)
 
+</div>
+
 <br>
 
-<h4>🖼️ Frameworks & Desktop</h4>
+### Frameworks & Desktop
+
+<div align="center">
 
 [![Frameworks](https://skillicons.dev/icons?i=electron,react,nodejs,vite&theme=dark)](https://skillicons.dev)
 
-<br>
-
-<h4>📊 Data & BI</h4>
-
-<img src="https://img.icons8.com/fluency/48/power-bi-2021.png" width="45" height="45" alt="Power BI" title="Power BI"/>&nbsp;&nbsp;
-<img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="45" height="45" alt="Excel" title="Excel"/>&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/pandas/ffffff" width="45" height="45" alt="Pandas" title="Pandas"/>&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/sap/0FAAFF" width="45" height="45" alt="SAP" title="SAP"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/wsnh2022/wsnh2022/main/assets/dax.svg" width="45" height="45" alt="DAX" title="DAX"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/wsnh2022/wsnh2022/main/assets/power-query.png" width="45" height="45" alt="Power Query" title="Power Query"/>
+</div>
 
 <br>
 
-<h4>🤖 Automation & AI</h4>
+### Data & BI
 
-<img src="https://cdn.simpleicons.org/n8n/EA4B71" width="45" height="45" alt="n8n" title="n8n"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/wsnh2022/wsnh2022/main/assets/ahk.png" width="45" height="45" alt="AutoHotkey v2" title="AutoHotkey v2"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/wsnh2022/wsnh2022/main/assets/openrouter.svg" width="45" height="45" alt="OpenRouter" title="OpenRouter"/>&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/langchain/00A67E" width="45" height="45" alt="LangChain" title="LangChain"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/wsnh2022/wsnh2022/main/assets/langgraph.svg" width="45" height="45" alt="LangGraph" title="LangGraph"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/wsnh2022/wsnh2022/main/assets/crewai.svg" width="45" height="45" alt="CrewAI" title="CrewAI"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/wsnh2022/wsnh2022/main/assets/rag.svg" width="45" height="45" alt="RAG Pipelines" title="RAG Pipelines"/>
+<div align="center">
+
+<img src="https://img.icons8.com/fluency/48/power-bi-2021.png" width="45" height="45" title="Power BI"/>&nbsp;&nbsp;
+<img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="45" height="45" title="Excel"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/pandas/ffffff" width="45" height="45" title="Pandas"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/sap/0FAAFF" width="45" height="45" title="SAP"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/wsnh2022/wsnh2022/main/assets/dax.svg" width="45" height="45" title="DAX"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/wsnh2022/wsnh2022/main/assets/power-query.png" width="45" height="45" title="Power Query"/>
+
+</div>
 
 <br>
 
-<h4>🛠️ Infra & Tools</h4>
+### Automation & AI
+
+<div align="center">
+
+<img src="https://cdn.simpleicons.org/n8n/EA4B71" width="45" height="45" title="n8n"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/wsnh2022/wsnh2022/main/assets/ahk.png" width="45" height="45" title="AutoHotkey v2"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/wsnh2022/wsnh2022/main/assets/openrouter.svg" width="45" height="45" title="OpenRouter"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/langchain/00A67E" width="45" height="45" title="LangChain"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/wsnh2022/wsnh2022/main/assets/langgraph.svg" width="45" height="45" title="LangGraph"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/wsnh2022/wsnh2022/main/assets/crewai.svg" width="45" height="45" title="CrewAI"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/wsnh2022/wsnh2022/main/assets/rag.svg" width="45" height="45" title="RAG Pipelines"/>
+
+</div>
+
+<br>
+
+### Infra & Tools
+
+<div align="center">
 
 [![Infra](https://skillicons.dev/icons?i=git,sqlite,vscode,github&theme=dark)](https://skillicons.dev)&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/mysql/4479A1" width="45" height="45" alt="MySQL" title="MySQL"/>&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/scrapy/60A839" width="45" height="45" alt="Scrapy" title="Scrapy"/>
+<img src="https://cdn.simpleicons.org/mysql/4479A1" width="45" height="45" title="MySQL"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/scrapy/60A839" width="45" height="45" title="Scrapy"/>
 
 </div>
 
