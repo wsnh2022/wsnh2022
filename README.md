@@ -63,15 +63,19 @@ I'm currently available for **remote roles** and **freelance projects** in data 
 
 <div align="center">
 
-**Languages & Runtimes**
+<h4>🖥️ Languages & Runtimes</h4>
 
 [![Languages](https://skillicons.dev/icons?i=python,ts,js,html,css,powershell&theme=dark)](https://skillicons.dev)
 
-**Frameworks & Desktop**
+<br>
+
+<h4>🖼️ Frameworks & Desktop</h4>
 
 [![Frameworks](https://skillicons.dev/icons?i=electron,react,nodejs,vite&theme=dark)](https://skillicons.dev)
 
-**Data & BI**
+<br>
+
+<h4>📊 Data & BI</h4>
 
 <img src="https://img.icons8.com/fluency/48/power-bi-2021.png" width="45" height="45" alt="Power BI" title="Power BI"/>&nbsp;&nbsp;
 <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="45" height="45" alt="Excel" title="Excel"/>&nbsp;&nbsp;
@@ -80,7 +84,9 @@ I'm currently available for **remote roles** and **freelance projects** in data 
 <img src="https://raw.githubusercontent.com/wsnh2022/wsnh2022/main/assets/dax.svg" width="45" height="45" alt="DAX" title="DAX"/>&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/wsnh2022/wsnh2022/main/assets/power-query.png" width="45" height="45" alt="Power Query" title="Power Query"/>
 
-**Automation & AI**
+<br>
+
+<h4>🤖 Automation & AI</h4>
 
 <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="45" height="45" alt="n8n" title="n8n"/>&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/wsnh2022/wsnh2022/main/assets/ahk.png" width="45" height="45" alt="AutoHotkey v2" title="AutoHotkey v2"/>&nbsp;&nbsp;
@@ -90,10 +96,11 @@ I'm currently available for **remote roles** and **freelance projects** in data 
 <img src="https://raw.githubusercontent.com/wsnh2022/wsnh2022/main/assets/crewai.svg" width="45" height="45" alt="CrewAI" title="CrewAI"/>&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/wsnh2022/wsnh2022/main/assets/rag.svg" width="45" height="45" alt="RAG Pipelines" title="RAG Pipelines"/>
 
-**Infra & Tools**
+<br>
 
-[![Infra](https://skillicons.dev/icons?i=git,sqlite,vscode,github&theme=dark)](https://skillicons.dev)
+<h4>🛠️ Infra & Tools</h4>
 
+[![Infra](https://skillicons.dev/icons?i=git,sqlite,vscode,github&theme=dark)](https://skillicons.dev)&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/mysql/4479A1" width="45" height="45" alt="MySQL" title="MySQL"/>&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/scrapy/60A839" width="45" height="45" alt="Scrapy" title="Scrapy"/>
 
