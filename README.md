@@ -77,18 +77,17 @@ I'm currently available for **remote roles** and **freelance projects** in data 
 <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="45" height="45" alt="Excel" title="Excel"/>&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/pandas/ffffff" width="45" height="45" alt="Pandas" title="Pandas"/>&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/sap/0FAAFF" width="45" height="45" alt="SAP" title="SAP"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/wsnh2022/wsnh2022/main/assets/dax.svg" width="45" height="45" alt="DAX" title="DAX"/>
-
-![Power Query](https://img.shields.io/badge/Power%20Query-742774?style=flat-square&logo=microsoft&logoColor=white)
+<img src="https://raw.githubusercontent.com/wsnh2022/wsnh2022/main/assets/dax.svg" width="45" height="45" alt="DAX" title="DAX"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/wsnh2022/wsnh2022/main/assets/power-query.png" width="45" height="45" alt="Power Query" title="Power Query"/>
 
 **Automation & AI**
 
 <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="45" height="45" alt="n8n" title="n8n"/>&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/langchain/00A67E" width="45" height="45" alt="LangChain" title="LangChain"/>
+<img src="https://raw.githubusercontent.com/wsnh2022/wsnh2022/main/assets/ahk.svg" width="45" height="45" alt="AutoHotkey v2" title="AutoHotkey v2"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/wsnh2022/wsnh2022/main/assets/openrouter.svg" width="45" height="45" alt="OpenRouter" title="OpenRouter"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/langchain/00A67E" width="45" height="45" alt="LangChain" title="LangChain"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/wsnh2022/wsnh2022/main/assets/langgraph.svg" width="45" height="45" alt="LangGraph" title="LangGraph"/>
 
-![AutoHotkey v2](https://img.shields.io/badge/AutoHotkey%20v2-334455?style=flat-square)
-![OpenRouter](https://img.shields.io/badge/OpenRouter-000000?style=flat-square)
-![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=flat-square)
 ![CrewAI](https://img.shields.io/badge/CrewAI-333333?style=flat-square)
 ![RAG Pipelines](https://img.shields.io/badge/RAG%20Pipelines-6B21A8?style=flat-square)
 
