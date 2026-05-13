@@ -73,12 +73,12 @@ I'm currently available for **remote roles** and **freelance projects** in data 
 
 **Data & BI**
 
-<img src="https://cdn.simpleicons.org/microsoftpowerbi/F2C811" width="45" height="45" alt="Power BI" title="Power BI"/>&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/microsoftexcel/21A366" width="45" height="45" alt="Excel" title="Excel"/>&nbsp;&nbsp;
+<img src="https://img.icons8.com/fluency/48/power-bi-2021.png" width="45" height="45" alt="Power BI" title="Power BI"/>&nbsp;&nbsp;
+<img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="45" height="45" alt="Excel" title="Excel"/>&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/pandas/ffffff" width="45" height="45" alt="Pandas" title="Pandas"/>&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/sap/0FAAFF" width="45" height="45" alt="SAP" title="SAP"/>
+<img src="https://cdn.simpleicons.org/sap/0FAAFF" width="45" height="45" alt="SAP" title="SAP"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/wsnh2022/wsnh2022/main/assets/dax.svg" width="45" height="45" alt="DAX" title="DAX"/>
 
-![DAX](https://img.shields.io/badge/DAX-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 ![Power Query](https://img.shields.io/badge/Power%20Query-742774?style=flat-square&logo=microsoft&logoColor=white)
 
 **Automation & AI**
