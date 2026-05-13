@@ -85,7 +85,7 @@ I'm currently available for **remote roles** and **freelance projects** in data 
 ### Automation & AI
 <div align="center">
 
-<img src="https://cdn.simpleicons.org/n8n/EA4B71" width="45" height="45" title="n8n"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/wsnh2022/wsnh2022/main/assets/ahk.png" width="45" height="45" title="AutoHotkey v2"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/wsnh2022/wsnh2022/main/assets/openrouter.svg" width="45" height="45" title="OpenRouter"/>
+<img src="https://cdn.simpleicons.org/n8n/EA4B71" width="45" height="45" title="n8n"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/wsnh2022/wsnh2022/main/assets/ahk.png" width="45" height="45" title="AutoHotkey v2"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/wsnh2022/wsnh2022/main/assets/openrouter.svg" width="45" height="45" title="OpenRouter"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/wsnh2022/wsnh2022/main/assets/rag.svg" width="45" height="45" title="RAG Pipelines"/>
 
 </div>
 
@@ -104,7 +104,7 @@ I'm currently available for **remote roles** and **freelance projects** in data 
 
 <div align="center">
 
-<img src="https://cdn.simpleicons.org/langchain/00A67E" width="45" height="45" title="LangChain"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/wsnh2022/wsnh2022/main/assets/langgraph.svg" width="45" height="45" title="LangGraph"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/wsnh2022/wsnh2022/main/assets/crewai.svg" width="45" height="45" title="CrewAI"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/wsnh2022/wsnh2022/main/assets/rag.svg" width="45" height="45" title="RAG Pipelines"/>
+<img src="https://cdn.simpleicons.org/langchain/00A67E" width="45" height="45" title="LangChain"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/wsnh2022/wsnh2022/main/assets/langgraph.svg" width="45" height="45" title="LangGraph"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/wsnh2022/wsnh2022/main/assets/crewai.svg" width="45" height="45" title="CrewAI"/>
 
 </div>
 
