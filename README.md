@@ -41,18 +41,14 @@ I'm currently available for **remote roles** and **freelance projects** in data 
 
 ## What I've Built
 
-<div align="center">
-
-[![DataVault AI](https://github-readme-stats.vercel.app/api/pin/?username=wsnh2022&repo=DataVault-AI&theme=github_dark&hide_border=true)](https://github.com/wsnh2022/DataVault-AI)
-[![Facility Automation Pipeline](https://github-readme-stats.vercel.app/api/pin/?username=wsnh2022&repo=Facility_Automation_Pipeline&theme=github_dark&hide_border=true)](https://github.com/wsnh2022/Facility_Automation_Pipeline)
-
-[![N8N Semantic Search Bot](https://github-readme-stats.vercel.app/api/pin/?username=wsnh2022&repo=N8N_Semantic_search_bot&theme=github_dark&hide_border=true)](https://github.com/wsnh2022/N8N_Semantic_search_bot)
-[![Command Center](https://github-readme-stats.vercel.app/api/pin/?username=wsnh2022&repo=Command-Center&theme=github_dark&hide_border=true)](https://github.com/wsnh2022/Command-Center)
-
-[![VisionScribe AI](https://github-readme-stats.vercel.app/api/pin/?username=wsnh2022&repo=VisionScribe-AI&theme=github_dark&hide_border=true)](https://github.com/wsnh2022/VisionScribe-AI)
-[![Nexus Launcher](https://github-readme-stats.vercel.app/api/pin/?username=wsnh2022&repo=Nexus-Launcher&theme=github_dark&hide_border=true)](https://github.com/wsnh2022/Nexus-Launcher)
-
-</div>
+| Project | What It Does | Stack | Result |
+|:--|:--|:--|:--|
+| [**Facility Automation Pipeline**](https://github.com/wsnh2022/Facility_Automation_Pipeline) | End-to-end ops ticketing - web form to unique ticket to dual email, zero manual steps | n8n · Google Sheets · HTML | **330 hrs/yr saved** |
+| [**DataVault AI**](https://github.com/wsnh2022/DataVault-AI) | Ask any CSV or Excel file a question in plain English, get a real SQL-backed answer | Python · SQLite · Streamlit · OpenRouter | NL-to-SQL, no formulas |
+| [**N8N Semantic Search Bot**](https://github.com/wsnh2022/N8N_Semantic_search_bot) | Self-hosted Telegram bot that stores and retrieves anything by meaning, not keywords | n8n · Qdrant · Gemini Embeddings | Semantic search, self-hosted |
+| [**Command Center**](https://github.com/wsnh2022/Command-Center) | Windows desktop hub - every tool, URL, script, and action in one keyboard-driven app | Electron · React · TypeScript · SQLite | Daily-use production tool |
+| [**VisionScribe AI**](https://github.com/wsnh2022/VisionScribe-AI) | Extracts text from any image or screenshot and converts it to clean Markdown | AHK v2 · Python · Tesseract · OpenRouter | Dual-pipeline: OCR + vision AI |
+| [**Nexus Launcher**](https://github.com/wsnh2022/Nexus-Launcher) | Select text anywhere on Windows, dispatch instantly to any AI tool or search engine | AHK v2 · JavaScript | ⭐ 9 stars |
 
 ---
 
@@ -77,28 +73,29 @@ I'm currently available for **remote roles** and **freelance projects** in data 
 
 **Data & BI**
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![Power Query](https://img.shields.io/badge/Power%20Query-742774?style=flat-square&logo=microsoft&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power%20Query-742774?style=for-the-badge&logo=microsoft&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 
 **Automation & AI**
 
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![AutoHotkey v2](https://img.shields.io/badge/AutoHotkey%20v2-334455?style=flat-square)
-![OpenRouter](https://img.shields.io/badge/OpenRouter-000000?style=flat-square)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
-![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=flat-square)
-![CrewAI](https://img.shields.io/badge/CrewAI-333333?style=flat-square)
-![RAG Pipelines](https://img.shields.io/badge/RAG%20Pipelines-6B21A8?style=flat-square)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![AutoHotkey v2](https://img.shields.io/badge/AutoHotkey%20v2-334455?style=for-the-badge)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-000000?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge)
+![CrewAI](https://img.shields.io/badge/CrewAI-333333?style=for-the-badge)
+![RAG Pipelines](https://img.shields.io/badge/RAG%20Pipelines-6B21A8?style=for-the-badge)
 
 **Infra & Tools**
 
 [![Infra](https://skillicons.dev/icons?i=git,sqlite,vscode,github&theme=dark)](https://skillicons.dev)
-![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=flat-square)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+
+![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
 
