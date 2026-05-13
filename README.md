@@ -73,29 +73,31 @@ I'm currently available for **remote roles** and **freelance projects** in data 
 
 **Data & BI**
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Power Query](https://img.shields.io/badge/Power%20Query-742774?style=for-the-badge&logo=microsoft&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+<img src="https://cdn.simpleicons.org/powerbi/F2C811" width="45" height="45" alt="Power BI" title="Power BI"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/microsoftexcel/21A366" width="45" height="45" alt="Excel" title="Excel"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/pandas/ffffff" width="45" height="45" alt="Pandas" title="Pandas"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/sap/0FAAFF" width="45" height="45" alt="SAP" title="SAP"/>
+
+![DAX](https://img.shields.io/badge/DAX-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power%20Query-742774?style=flat-square&logo=microsoft&logoColor=white)
 
 **Automation & AI**
 
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![AutoHotkey v2](https://img.shields.io/badge/AutoHotkey%20v2-334455?style=for-the-badge)
-![OpenRouter](https://img.shields.io/badge/OpenRouter-000000?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge)
-![CrewAI](https://img.shields.io/badge/CrewAI-333333?style=for-the-badge)
-![RAG Pipelines](https://img.shields.io/badge/RAG%20Pipelines-6B21A8?style=for-the-badge)
+<img src="https://cdn.simpleicons.org/n8n/EA4B71" width="45" height="45" alt="n8n" title="n8n"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/langchain/00A67E" width="45" height="45" alt="LangChain" title="LangChain"/>
+
+![AutoHotkey v2](https://img.shields.io/badge/AutoHotkey%20v2-334455?style=flat-square)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-000000?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=flat-square)
+![CrewAI](https://img.shields.io/badge/CrewAI-333333?style=flat-square)
+![RAG Pipelines](https://img.shields.io/badge/RAG%20Pipelines-6B21A8?style=flat-square)
 
 **Infra & Tools**
 
 [![Infra](https://skillicons.dev/icons?i=git,sqlite,vscode,github&theme=dark)](https://skillicons.dev)
 
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge)
+<img src="https://cdn.simpleicons.org/mysql/4479A1" width="45" height="45" alt="MySQL" title="MySQL"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/scrapy/60A839" width="45" height="45" alt="Scrapy" title="Scrapy"/>
 
 </div>
 
