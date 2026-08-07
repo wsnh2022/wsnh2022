@@ -1,153 +1,150 @@
-![My_Banner](https://github.com/wsnh2022/My_Project_PNG/blob/24de9b796a68dd615ebe5a394a1accd0947cf0d4/14.png)
+# Hi there, I’m Yogi 👋
 
-<div align="center">
+### Python • AI • Business Automation
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=700&size=34&pause=1000&color=E6F7E0&background=1a1a2e00&center=true&width=900&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Yoghesh;Data+Analyst+%C2%B7+AI+%26+Automation+Consultant;I+build+things+that+save+hours%2C+not+minutes" alt="Yoghesh - Data Analyst & AI Automation Consultant" />
+I build automation systems, AI-powered tools, and data workflows that reduce manual work and improve operational efficiency.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-wsnh2022.github.io-blue?style=flat-square)](https://wsnh2022.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-yoghesh369-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yoghesh369/)
-[![Email](https://img.shields.io/badge/Email-datacraft369%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:datacraft369@gmail.com)
-[![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Remote%20%26%20Freelance-brightgreen?style=flat-square)](mailto:datacraft369@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=wsnh2022&label=Profile+Views&color=0e75b6&style=flat-square)
-
-</div>
-
----
-
-## Who I Am
-
-I'm a Data Analyst and AI & Automation Consultant with 7+ years inside supply chain and operations - which means I understand the actual problem before I open an editor.
-
-I've built MIS pipelines, Power BI dashboards, and automation workflows that ops teams use every day. More recently, I've been building AI-integrated tools and desktop apps - things like an NL-to-SQL engine, a local semantic search bot, and a self-hosted workflow automation system.
-
-The projects I'm most proud of saved real time in real environments:
-
-- **Facility Automation Pipeline** - eliminated 330 hrs/year of manual ops work
-- **Jio MIS Automation** - freed ~1,920 hours over 4 years, contributed to ₹1.7M inventory reduction
-
-I'm currently available for **remote roles** and **freelance projects** in data analytics, AI integration, and ops automation.
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=wsnh2022&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+  <a href="https://github.com/wsnh2022"><img src="https://img.shields.io/github/followers/wsnh2022?label=Followers&style=for-the-badge" alt="followers" /></a>
+  <a href="https://www.linkedin.com/in/yoghesh369"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+  <a href="mailto:datacraft369@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
+</p>
 
 ---
 
-## Trophies
+## 🚀 Featured Projects
 
-<div align="center">
+### 🏭 [Facility Automation Pipeline](https://github.com/wsnh2022/Facility_Automation_Pipeline)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=wsnh2022&theme=darkhub&no-frame=true&row=1&column=7&margin-w=10)
+End-to-end operations ticketing workflow with zero manual handoffs.
 
-</div>
+* **Stack:** n8n · Google Sheets · HTML
+* **Impact:** **330+ hrs/year saved**
+
+### 📊 [DataVault AI](https://github.com/wsnh2022/DataVault-AI)
+
+Ask CSV or Excel files questions in plain English and receive SQL-backed answers.
+
+* **Stack:** Python · SQLite · Streamlit · OpenRouter
+* **Highlights:** NL-to-SQL · Multi-file analysis · AI-assisted querying
+
+### 🔎 [N8N Semantic Search Bot](https://github.com/wsnh2022/N8N_Semantic_search_bot)
+
+Self-hosted Telegram bot with semantic memory and retrieval.
+
+* **Stack:** n8n · Qdrant · Gemini Embeddings
+* **Highlights:** Vector search · Semantic recall · Self-hosted deployment
+
+### 🖥️ [Command Center](https://github.com/wsnh2022/Command-Center)
+
+Keyboard-driven desktop hub for tools, scripts, URLs, and daily workflows.
+
+* **Stack:** Electron · React · TypeScript · SQLite
+* **Highlights:** Productivity launcher · Local desktop app
+
+### 📝 [VisionScribe AI](https://github.com/wsnh2022/VisionScribe-AI)
+
+Extract text from images and screenshots into clean Markdown.
+
+* **Stack:** Python · Tesseract · OpenRouter · AutoHotkey
+* **Highlights:** OCR + Vision AI pipeline
+
+### ⚡ [Nexus Launcher](https://github.com/wsnh2022/Nexus-Launcher)
+
+Send selected text instantly to AI tools or search engines from anywhere in Windows.
+
+* **Stack:** AutoHotkey · JavaScript
+* **Highlights:** Global hotkeys · AI dispatch launcher
 
 ---
 
-## What I've Built
+## 🧰 Tech Stack
 
-| Project | What It Does | Stack | Result |
-|:--|:--|:--|:--|
-| [**Facility Automation Pipeline**](https://github.com/wsnh2022/Facility_Automation_Pipeline) | End-to-end ops ticketing - web form to unique ticket to dual email, zero manual steps | n8n · Google Sheets · HTML | **330 hrs/yr saved** |
-| [**DataVault AI**](https://github.com/wsnh2022/DataVault-AI) | Ask any CSV or Excel file a question in plain English, get a real SQL-backed answer | Python · SQLite · Streamlit · OpenRouter | NL-to-SQL, no formulas |
-| [**N8N Semantic Search Bot**](https://github.com/wsnh2022/N8N_Semantic_search_bot) | Self-hosted Telegram bot that stores and retrieves anything by meaning, not keywords | n8n · Qdrant · Gemini Embeddings | Semantic search, self-hosted |
-| [**Command Center**](https://github.com/wsnh2022/Command-Center) | Windows desktop hub - every tool, URL, script, and action in one keyboard-driven app | Electron · React · TypeScript · SQLite | Daily-use production tool |
-| [**VisionScribe AI**](https://github.com/wsnh2022/VisionScribe-AI) | Extracts text from any image or screenshot and converts it to clean Markdown | AHK v2 · Python · Tesseract · OpenRouter | Dual-pipeline: OCR + vision AI |
-| [**Nexus Launcher**](https://github.com/wsnh2022/Nexus-Launcher) | Select text anywhere on Windows, dispatch instantly to any AI tool or search engine | AHK v2 · JavaScript | ⭐ 9 stars |
-
----
-
-## Currently Building
-
-- **DataVault AI V2** - Adding a PII anonymization layer on top of V1. Making NL-to-SQL safe for enterprise data.
-- **Generic Web Scraper** - YAML-driven Scrapy scraper with multi-format output and full CLI. Built for reuse across client projects.
-
----
-
-## What I Build With
-
-### Languages & Runtimes
-<div align="center">
-
-[![Languages](https://skillicons.dev/icons?i=python,ts,js,html,css,powershell&theme=dark)](https://skillicons.dev)
-
-</div>
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### Frameworks & Desktop
-<div align="center">
-
-[![Frameworks](https://skillicons.dev/icons?i=electron,react,nodejs,vite&theme=dark)](https://skillicons.dev)
-
-</div>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Electron](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=electron&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ### Data & BI
-<div align="center">
-
-<img src="https://img.icons8.com/fluency/48/power-bi-2021.png" width="45" height="45" title="Power BI"/>&nbsp;&nbsp;<img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="45" height="45" title="Excel"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/pandas/ffffff" width="45" height="45" title="Pandas"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/sap/0FAAFF" width="45" height="45" title="SAP"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/wsnh2022/wsnh2022/main/assets/dax.svg" width="45" height="45" title="DAX"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/wsnh2022/wsnh2022/main/assets/power-query.png" width="45" height="45" title="Power Query"/>
-
-</div>
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
 
 ### Automation & AI
-<div align="center">
-
-<img src="https://cdn.simpleicons.org/n8n/EA4B71" width="45" height="45" title="n8n"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/wsnh2022/wsnh2022/main/assets/ahk.png" width="45" height="45" title="AutoHotkey v2"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/wsnh2022/wsnh2022/main/assets/openrouter.svg" width="45" height="45" title="OpenRouter"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/wsnh2022/wsnh2022/main/assets/rag.svg" width="45" height="45" title="RAG Pipelines"/>
-
-</div>
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-111827?style=for-the-badge&logo=openai&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### Infra & Tools
-<div align="center">
-
-[![Infra](https://skillicons.dev/icons?i=git,sqlite,vscode,github&theme=dark)](https://skillicons.dev)&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/mysql/4479A1" width="45" height="45" title="MySQL"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/scrapy/60A839" width="45" height="45" title="Scrapy"/>
-
-</div>
-
----
-
-## Currently Exploring
-
-> Actively building with these - not yet in shipped projects but in active experimentation.
-
-<div align="center">
-
-<img src="https://cdn.simpleicons.org/langchain/00A67E" width="45" height="45" title="LangChain"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/wsnh2022/wsnh2022/main/assets/langgraph.svg" width="45" height="45" title="LangGraph"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/wsnh2022/wsnh2022/main/assets/crewai.svg" width="45" height="45" title="CrewAI"/>
-
-</div>
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![AutoHotkey](https://img.shields.io/badge/AutoHotkey-334455?style=for-the-badge&logo=autohotkey&logoColor=white)
 
 ---
 
-## GitHub Activity
+## 📌 Current Focus
 
-<div align="center">
-
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wsnh2022&theme=github_dark)
-
-![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wsnh2022&theme=github_dark)
-&nbsp;
-![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wsnh2022&theme=github_dark)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=wsnh2022&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wsnh2022&theme=github-compact&hide_border=true&area=true&area_color=E6F7E0)
-
-</div>
+* **DataVault AI V2** - PII-safe NL-to-SQL for enterprise datasets
+* **Generic Web Scraper** - reusable YAML-driven scraping framework
+* **AI Workflow Automation** - agentic business process automation with n8n
 
 ---
 
-## Contribution Snake
+## 🧪 Currently Exploring
 
-<div align="center">
+> Actively experimenting with these technologies in new projects.
 
-![Snake Dark](https://raw.githubusercontent.com/wsnh2022/wsnh2022/output/github-contribution-grid-snake-dark.svg)
+<p>
+  <img src="https://skillicons.dev/icons?i=rust,tauri,fastapi" />
+</p>
 
-</div>
+* LangGraph
+* Hybrid RAG
+* LanceDB
+* Local-first AI applications
+* AI agents and tool orchestration
 
 ---
 
-## Let's Work Together
+## 📈 GitHub Activity
 
-I'm open to **remote full-time roles** and **freelance projects** in:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wsnh2022&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wsnh2022&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+</p>
 
-- Data analytics and reporting (Power BI, SQL, MIS dashboards)
-- Workflow automation (n8n, Python, ops pipelines)
-- AI tool development and integration
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wsnh2022&theme=tokyonight&hide_border=true" height="170" />
+</p>
 
-**Email:** [datacraft369@gmail.com](mailto:datacraft369@gmail.com)
-**Portfolio:** [wsnh2022.github.io](https://wsnh2022.github.io/)
-**LinkedIn:** [linkedin.com/in/yoghesh369](https://www.linkedin.com/in/yoghesh369/)
+---
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=120&section=footer)
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/wsnh2022/wsnh2022/output/snake.svg" alt="snake animation" />
+</p>
+
+---
+
+## 🤝 Let’s Connect
+
+* 🌐 **Portfolio:** https://wsnh2022.github.io/
+* 💼 **LinkedIn:** https://www.linkedin.com/in/yoghesh369
+* 📧 **Email:** [datacraft369@gmail.com](mailto:datacraft369@gmail.com)
