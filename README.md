@@ -245,7 +245,7 @@ Static portfolio website built from scratch with performance, SEO, and maintaina
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/wsnh2022/wsnh2022/output/snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/wsnh2022/wsnh2022/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
 ---
